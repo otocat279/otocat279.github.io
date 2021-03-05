@@ -1,1 +1,209 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T08:51:13.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.1.8" etag="UL75QWz6tFb49muRaMJx" type="github"><diagram id="yJoDjqbRFVxodBP9kwET">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-05T15:15:39.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="DtgDU-0Q5bnArldIBv5p" version="14.1.8" type="github">
+  <diagram id="yJoDjqbRFVxodBP9kwET" name="Page-1">
+    <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="styn9JX1pbaN4nH4Qun0-1" value="Hệ thống quản lý bệnh nhân Covid-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-2" value="Bệnh nhân Covid-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-3" value="Người nghi ngờ bị nhiễm Covid-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-4" value="Thông tin bệnh nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-5" value="Những người liên quan đến bệnh nhân Covid-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-6" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-2" target="styn9JX1pbaN4nH4Qun0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-7" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="400" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-8" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="230" as="sourcePoint" />
+            <mxPoint x="210" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-10" value="Tình trạng bệnh nhân" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-11" value="Quá trình điều trị" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-12" value="Tên, tuổi, nơi ở, nơi làm việc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-13" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-23" target="styn9JX1pbaN4nH4Qun0-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-14" value="" style="endArrow=none;html=1;entryX=-0.008;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-15" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-16" value="Dấu hiệu nhiễm bệnh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-17" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-18" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-4" target="styn9JX1pbaN4nH4Qun0-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="120" />
+              <mxPoint x="210" y="120" />
+              <mxPoint x="280" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-19" value="Mối quan hệ với bệnh nhân Covid-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-21" value="Lịch trình di chuyển" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-22" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="380" as="sourcePoint" />
+            <mxPoint x="90" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-23" value="Nguồn gốc nhiễm bệnh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-24" value="" style="endArrow=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-25" value="Theo dõi tình trạng sức khỏe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-26" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-27" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-28" value="Thông tin&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-30" value="Tình trạng sức khỏe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-31" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.558;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-28" target="styn9JX1pbaN4nH4Qun0-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="260" as="sourcePoint" />
+            <mxPoint x="635" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="120" />
+              <mxPoint x="737" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-32" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="120" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-33" value="Tên, tuổi, nơi ở, nơi làm việc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-34" value="Lịch trình di chuyển" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-35" value="Mối quan hệ với bệnh nhân Covid-19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-36" value="Dấu hiệu nhiễm bệnh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="215" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-37" value="Theo dõi tình trạng sức khỏe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-39" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-35" target="styn9JX1pbaN4nH4Qun0-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-40" value="" style="endArrow=none;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-41" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-42" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="styn9JX1pbaN4nH4Qun0-37" target="styn9JX1pbaN4nH4Qun0-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="360" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="310" />
+              <mxPoint x="670" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="styn9JX1pbaN4nH4Qun0-43" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="styn9JX1pbaN4nH4Qun0-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="238" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
